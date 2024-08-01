@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NETCoreConsoleApp/1.0.0": {
+        "dependencies": {
+          "NETLibrary": "1.0.0"
+        },
+        "runtime": {
+          "NETCoreConsoleApp.dll": {}
+        }
+      },
+      "NETLibrary/1.0.0": {
+        "runtime": {
+          "NETLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NETCoreConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NETLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETLibrary\bin\Debug\NETLibrary.dll
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETLibrary\bin\Debug\NETLibrary.pdb
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETLibrary\obj\Debug\NETLibrary.csproj.AssemblyReference.cache
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETLibrary\obj\Debug\NETLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETLibrary\obj\Debug\NETLibrary.dll
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETLibrary\obj\Debug\NETLibrary.pdb

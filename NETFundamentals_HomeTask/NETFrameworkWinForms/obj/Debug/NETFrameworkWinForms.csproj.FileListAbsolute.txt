@@ -1,0 +1,13 @@
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\bin\Debug\NETFrameworkWinForms.exe.config
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\bin\Debug\NETFrameworkWinForms.exe
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\bin\Debug\NETFrameworkWinForms.pdb
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\bin\Debug\NETLibrary.dll
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\bin\Debug\NETLibrary.pdb
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrameworkWinForms.csproj.AssemblyReference.cache
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrameworkWinForms.Form1.resources
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrameworkWinForms.Properties.Resources.resources
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrameworkWinForms.csproj.GenerateResource.cache
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrameworkWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrame.03EDBE12.Up2Date
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrameworkWinForms.exe
+C:\Users\Yohana_Espinoza\source\repos\NETFundamentals_HomeTask\NETFrameworkWinForms\obj\Debug\NETFrameworkWinForms.pdb
